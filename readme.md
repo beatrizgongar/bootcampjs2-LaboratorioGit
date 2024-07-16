@@ -132,4 +132,4 @@ Y no se presenta ningún conflicto.
 
 Subimos los cambios a GitHub
 
-> git push
+> git push --all origin
