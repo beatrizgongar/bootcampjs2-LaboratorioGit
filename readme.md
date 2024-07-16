@@ -74,7 +74,7 @@ Añadimos el archivo al staging
 
 > git add .
 
-He incluimos un commit
+Incluimos un commit
 
 > git commit -m "Añadimos primerArchivo.html"
 
@@ -131,3 +131,5 @@ Y la mergeamos con la rama development y vemos que se añaden todos los archivos
 Y no se presenta ningún conflicto.
 
 Subimos los cambios a GitHub
+
+> git push
