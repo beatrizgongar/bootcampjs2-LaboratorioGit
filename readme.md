@@ -77,3 +77,27 @@ Añadimos el archivo al staging
 He incluimos un commit
 
 > git commit -m "Añadimos primerArchivo.html"
+
+![Hacer commit 4](./content/Hacercommit4.png)
+
+Y subimos los cambios al repositorio de GitHub
+
+> git push -u origin main
+
+![Hacer commit 5](./content/Hacercommit5.png)
+
+Actualizamos el repositorio en GitHub y aparecen los cambios
+
+![Hacer commit 6](./content/Hacercommit6.png)
+
+## 4. Crear una rama
+
+Creamos una rama "development" desde la rama main
+
+> git branch development
+
+Y nos cambiamos a la rama development
+
+> git checkout development
+
+![Crear Rama 1](./content/CrearRama1.png)
