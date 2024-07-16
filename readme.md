@@ -101,3 +101,21 @@ Y nos cambiamos a la rama development
 > git checkout development
 
 ![Crear Rama 1](./content/CrearRama1.png)
+
+Hacemos cambios en el archivo
+
+![Crear Rama 2](./content/CrearRama2.png)
+
+Añadimos y hacemos commit con los cambios en la rama development
+
+![Crear Rama 3](./content/CrearRama3.png)
+
+Subimos los cambios a GitHub
+
+![Crear Rama 4](./content/CrearRama4.png)
+
+Y después de hacer el PR los cambios se recogen en GitHub
+
+![Crear Rama 5](./content/CrearRama5.png)
+
+## 5. Hacer un merge
