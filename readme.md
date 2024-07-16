@@ -119,3 +119,7 @@ Y después de hacer el PR los cambios se recogen en GitHub
 ![Crear Rama 5](./content/CrearRama5.png)
 
 ## 5. Hacer un merge
+
+Primero volvemos a la rama main
+
+![Merge 1](./content/Merge1.png)
