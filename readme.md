@@ -123,3 +123,11 @@ Y después de hacer el PR los cambios se recogen en GitHub
 Primero volvemos a la rama main
 
 ![Merge 1](./content/Merge1.png)
+
+Y la mergeamos con la rama development y vemos que se añaden todos los archivos que estábamos incluyendo en el readme.md
+
+![Merge 2](./content/Merge2.png)
+
+Y no se presenta ningún conflicto.
+
+Subimos los cambios a GitHub
